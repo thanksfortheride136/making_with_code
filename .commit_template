@@ -1,0 +1,24 @@
+
+
+# -----------------------------------------------------------------
+# Write your entire commit message above this line.
+# 
+# The first line should be a quick description of what you changed.
+# Then leave a blank line. 
+# Then, taking as many lines as you want, answer the questions 
+# corresponding to your checkpoint. 
+#
+# Checkpoint 1: 
+# - Was it difficult to figure out how to rewrite square() using 
+#   a for-loop? What strategies did you use to figure it out? 
+#
+# Checkpoint 2: 
+# - Describe something you understand well, or find interesting, about ranges. 
+# - Describe something you're still unsure about related to ranges. 
+#
+# Checkpoint 3: 
+# - Docstrings are meant for humans to read; they don't affect how a program runs. 
+#   When you write your own programs in the future, do you think you'll write 
+#   docstrings? Why or why not?
+
+
