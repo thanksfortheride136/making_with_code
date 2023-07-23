@@ -9,15 +9,18 @@ def print_all_numbers(maximum):
 
 def print_even_numbers(maximum):
     "Prints all even integers from 0 to maximum."
-    pass
+    for i in range(0, maximum + 1, 2):
+        print(i)
 
 def print_odd_numbers(maximum):
     "Prints all odd integers from 0 to maximum."
-    pass
+    for j in range(1, maximum + 1, 2):
+        print(j)
 
 def print_multiples_of_five(maximum):
     "Prints all integers which are multiples of five from 0 to maximum."
-    pass
+    for x in range(0, maximum + 1, 5):
+        print(x)
 
 chosen_maximum = int(input("Choose a number: "))
 print(f"All numbers from 0 to {chosen_maximum}")
