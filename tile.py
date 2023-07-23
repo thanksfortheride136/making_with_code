@@ -1,4 +1,5 @@
 from turtle import *
+#import random
 
 def draw_tile(size):
     "Draws one tile, which can be repeated to form a pattern."

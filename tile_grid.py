@@ -10,7 +10,8 @@ from tile import fly
 def draw_tile_grid(width, height, tile_size, tile_function):
     """Draws a (width x height) grid, with tile_function drawn on each tile.
 
-    (Your explanation here.)
+    (we are iterating over both the height and width here. it will run the tile_size function every time for the height and width, then fly to the beginning of the tile? Then it looks like 
+    its moving up by a tile size. It also returns to the x, y origin.
     """
     for y in range(height):
         for x in range(width):
